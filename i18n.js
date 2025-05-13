@@ -2,11 +2,11 @@ let currentLang = 'zh-CN'; // 默认语言
 
 const translations = {
     'zh-CN': {
-        title: '简易图片加水印，防盗图必备',
-        logo: '加水印.com',
-        heading: '简易图片加水印，防盗图必备',
-        subheading: '快速为图片添加自定义水印，非常简单',
-        copyright: '@2025 Jiashuiyin.com',
+        title: '图片在线批量添加水印，防盗图 - 集智芬享 【jzfx.de】',
+        logo: '集智芬享',
+        heading: '图片在线批量添加水印，防盗图 - 集智芬享 【jzfx.de】',
+        subheading: '图片在线批量添加水印，防盗图 - 集智芬享 【jzfx.de】',
+        copyright: '@2025 jzfx.de',
         rights: '保留所有权利；',
         friendlyLinks: '友情链接',
         RefHide: '隐私网址生成器',
